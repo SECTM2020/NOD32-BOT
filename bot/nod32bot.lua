@@ -251,8 +251,8 @@ function create_config( )
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @SEC_TM
+sodu : @AMIR_BLACK_HAT
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -321,9 +321,8 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+SEC BOT Commands list :
  
-1-banhammer list ^
  
 !kick [username|id]
 (کیک کردن شخص (حتی با ریپلی)
@@ -340,8 +339,6 @@ NOD32 Commands list :
 !kickme
 خروج از گروه
 
-2-Statistics list ^
-
 !who
 لیست+ایدی همه اعضا
 
@@ -357,8 +354,6 @@ NOD32 Commands list :
 !banlist
 لیست اعضا بن شده
 
-3-Rate Member ^
-
 !setowner [id]
 (id ایجاد مدیر جدید (همراه 
 
@@ -367,8 +362,6 @@ NOD32 Commands list :
 
 !demote [username]
 (برکنار کردن ادمین (همراه ریپلی)
-
-4-General changes ^
 
 !setname [name]
 ایجاد اسم جدید برای گروه
@@ -385,8 +378,6 @@ NOD32 Commands list :
 !setflood [value]
 حساسیت به اسپم در گروه
 
-5-View details ^
-
 !about
 درباره گروه
 
@@ -398,8 +389,6 @@ NOD32 Commands list :
 
 !help
 لیست دستورات ربات
-
-6-Security Group ^
 
 !lock member 
 قفل ورود اعضا جدید
@@ -437,8 +426,6 @@ NOD32 Commands list :
 [chat*join*photo]
 باز کردن دستورات قفل شده
 
-7-Fun time ^
-
 !time country city
 ساعت کشور مورد نظر
 
@@ -454,8 +441,6 @@ NOD32 Commands list :
  !calc 3+1
  انجام محاسبات ریاضی
 
-8-Service Provider ^
-
 !newlink
 ایجاد لینک جدید
 
@@ -470,7 +455,6 @@ NOD32 Commands list :
 اضافه کردن شخص تو گروه
 (حتما شماره ربات را سیو کرده باشد)
 
-9-Member Profile and Group ^
 !owner
 مدیر گروه
 
@@ -486,8 +470,6 @@ NOD32 Commands list :
 !settings
 تنظیمات فعلی گروه
 
-10-filter word Mode ^
-
 !filter set (word)
 اضافه کردن کلمه جدید به لیست
 
@@ -499,11 +481,6 @@ NOD32 Commands list :
 
 !filterlist
 لیست کلمات فیلتر شده
-
-11-bot number & support ^
-
-!botnumber
-دریافت شماره ربات
 
 !support
 دعوت سازنده ربات به گروه
@@ -518,7 +495,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @SEC_TM
 
 G00D LUCK ^_^
 ]]
